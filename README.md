@@ -16,6 +16,10 @@
 ### Usage
 
 Endpoint URL: `https://readme-jokes.vercel.app/api`
+AWS Endpoint URL: `https://b4csqo0el1.execute-api.us-east-1.amazonaws.com/dev/api`
+
+Test Usage:
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Embed one of these in your README:
 
